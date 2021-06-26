@@ -1,0 +1,20 @@
+th{
+	background-color:blue;
+	color: white;
+	font-weight:800;
+	font-size:37;
+	font-family:cursive;
+	text-align: center;
+	}
+
+tr{
+	font-family: sans-serif;
+	font-synthesis: style;
+}
+table{
+border-collapse: collapse;
+border-width: 2px;
+border-style: double;
+border-color: pink;
+
+}
