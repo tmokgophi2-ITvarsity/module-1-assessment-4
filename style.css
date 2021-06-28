@@ -1,5 +1,5 @@
 th{
-	background-color:blue;
+	background-color:red;
 	color: white;
 	font-weight:800;
 	font-size:37;
@@ -12,9 +12,9 @@ tr{
 	font-synthesis: style;
 }
 table{
-border-collapse: collapse;
+border-collapse: double;
 border-width: 2px;
 border-style: double;
-border-color: pink;
+border-color: red;
 
 }
